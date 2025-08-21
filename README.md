@@ -2,7 +2,7 @@
 
 # 🍔 Local Food Wastage Management System 🍎
 
-![Food Waste Management Screenshot]([https://via.placeholder.com/800x400?text=App+Screenshot+Here](https://github.com/ompatilonmail/Local-Food-Wastage-Management-System/blob/main/Screenshot%202025-08-22%20001219.png)) 
+![Food Waste Management Screenshot](https://github.com/ompatilonmail/Local-Food-Wastage-Management-System/blob/main/Screenshot%202025-08-22%20001219.png?raw=true) 
 *(Replace the placeholder image above with a screenshot of your Streamlit app in action!)*
 
 This project aims to address food wastage by creating a simple, yet effective, system to manage surplus food listings from providers and facilitate their claims by receivers. It uses a SQLite database as its backend and provides an interactive web interface built with Streamlit for data entry, viewing, and analysis.
