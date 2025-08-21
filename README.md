@@ -1,4 +1,4 @@
-# Local-Food-Wastage-Management-System
+
 
 # 🍔 Local Food Wastage Management System 🍎
 
